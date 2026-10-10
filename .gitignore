@@ -1,0 +1,13 @@
+web/node_modules/
+web/dist/*
+!web/dist/.gitkeep
+bin/
+releases/
+.DS_Store
+*.log
+coverage.out
+.cache/
+.artifacts/
+docs/screenshots/
+docs/example-island.svg
+/quiet-atlas
